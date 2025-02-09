@@ -1,22 +1,25 @@
 {
   "config1": {
-    "name": "Aggressive Mode",
+    "name": "Legit",
     "modules": {
-      "AimAssist": true,
+      "AimAssist": false,
+      "AutoClicker": true,
       "ESP": false
     }
   },
   "config2": {
-    "name": "Stealth Mode",
+    "name": "Semi-Legit",
     "modules": {
-      "AimAssist": false,
-      "ESP": true
+      "AimAssist": true,
+      "AutoClicker": true,
+      "ESP": false
     }
   },
   "config3": {
-    "name": "Balanced Mode",
+    "name": "Blatant",
     "modules": {
       "AimAssist": true,
+      "Autoclicker": true,
       "ESP": true
     }
   }
