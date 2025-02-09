@@ -3,7 +3,7 @@
     "name": "Legit",
     "modules": {
       "AimAssist": false,
-      "AutoClicker": true,
+      "Autoclicker": true,
       "ESP": false
     }
   },
@@ -11,7 +11,7 @@
     "name": "Semi-Legit",
     "modules": {
       "AimAssist": true,
-      "AutoClicker": true,
+      "Autoclicker": true,
       "ESP": false
     }
   },
