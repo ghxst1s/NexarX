@@ -1,1 +1,23 @@
-{}
+{
+  "config1": {
+    "name": "Aggressive Mode",
+    "modules": {
+      "AimAssist": true,
+      "ESP": false
+    }
+  },
+  "config2": {
+    "name": "Stealth Mode",
+    "modules": {
+      "AimAssist": false,
+      "ESP": true
+    }
+  },
+  "config3": {
+    "name": "Balanced Mode",
+    "modules": {
+      "AimAssist": true,
+      "ESP": true
+    }
+  }
+}
