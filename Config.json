@@ -5,6 +5,8 @@
       "AimAssist": false,
       "Autoclicker": true,
       "ESP": false
+      "Speed": false,
+      "SpeedType": "Legit"
     }
   },
   "config2": {
@@ -13,6 +15,8 @@
       "AimAssist": true,
       "Autoclicker": true,
       "ESP": false
+      "Speed": true,
+      "SpeedType": "Legit"
     }
   },
   "config3": {
@@ -21,6 +25,8 @@
       "AimAssist": true,
       "Autoclicker": true,
       "ESP": true
+      "Speed": true,
+      "SpeedType": "Blatant"
     }
   }
 }
