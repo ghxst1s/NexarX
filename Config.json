@@ -4,7 +4,7 @@
     "modules": {
       "AimAssist": false,
       "Autoclicker": true,
-      "ESP": false
+      "ESP": false,
       "Speed": false,
       "SpeedType": "Legit"
     }
@@ -14,7 +14,7 @@
     "modules": {
       "AimAssist": true,
       "Autoclicker": true,
-      "ESP": false
+      "ESP": false,
       "Speed": true,
       "SpeedType": "Legit"
     }
@@ -24,7 +24,7 @@
     "modules": {
       "AimAssist": true,
       "Autoclicker": true,
-      "ESP": true
+      "ESP": true,
       "Speed": true,
       "SpeedType": "Blatant"
     }
